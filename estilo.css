@@ -1,1 +1,14 @@
 @charset "utf-8";
+
+body {
+    background-color:lightskyblue;
+    font-family: sans-serif;
+  }
+  
+  h1 {margin:1px;
+    color:darkcyan;
+    font-size:80px;
+    letter-spacing: 20px;
+    text-align: center;
+    text-transform: uppercase;
+  }
